@@ -1,2 +1,3 @@
-# terraform-github-actions-demo
-terraform-github-actions-demo
+# hashicorp/setup-terraform 
+
+- This repo was created by following [this](https://www.terraform.io/docs/github-actions/setup-terraform.html#github-actions-workflow-yaml) example.
